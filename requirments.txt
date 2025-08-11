@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+colorama
+python-nmap
+tldextract
+dnspython
+whois
+ThreadPoolExecutor
+socket
+sslyze
+arp-scan
+ssl
